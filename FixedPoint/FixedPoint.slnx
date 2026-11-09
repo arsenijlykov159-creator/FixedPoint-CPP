@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="FixedPoint.vcxproj" />
+  <Project Path="FixedPoint.vcxproj" Id="f470d5c5-050a-4be9-bdba-5fd2e41f2920" />
 </Solution>
